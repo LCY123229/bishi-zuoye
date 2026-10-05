@@ -1,0 +1,12 @@
+# 系统时间（UTC）
+builtin_interfaces/Time stamp
+string hostname
+# 使用率：0–100%
+float32 cpu_percent
+float32 memory_percent
+# 内存：MiB，可用内存包含可回收缓存
+float32 memory_total
+float32 memory_available
+# 全部网卡累计流量：MiB
+float32 net_sent
+float32 net_recv
