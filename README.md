@@ -1,4 +1,4 @@
-# ROS 2 系统状态监视器
+# 笔试作业
 
 Ubuntu 22.04 / ROS 2 Humble / Python 3.10 / PyQt5。
 
